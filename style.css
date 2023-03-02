@@ -1,0 +1,52 @@
+*{
+    margin: 0 !important;
+    padding: 0 !important;
+}
+
+.container-fluid{
+    background-color: #0065c3 !important;
+    height: 90px !important;
+    padding: 10px !important;
+
+
+ }
+ .nav-pos{
+    position: fixed !important;
+    width: 100% !important;
+ }
+
+
+.navbar-brand{
+    margin-left: 23px !important;
+}
+.nav-link{
+    margin: 20px !important;
+    color: aliceblue !important;
+    font-weight: bolder !important;
+}
+.dropdown-item{
+    color: antiquewhite !important ;
+    font-weight: bold !important;
+    background-color:#0065c3 !important ;
+    padding: 10px !important;
+    border-radius: 2px !important;
+}
+
+.link-disable{
+       margin-left: 550px !important ;
+            
+}
+.link-disable > a{
+    border-width: 2px !important; 
+}
+.main_pic{
+    /* width: 90%; */
+    height: 60%;
+    background-color: black !important  ;
+}
+.mid_work{
+    background-color: #0000 !important;
+}
+
+
+
